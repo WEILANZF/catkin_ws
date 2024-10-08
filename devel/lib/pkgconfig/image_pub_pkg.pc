@@ -1,0 +1,8 @@
+prefix=/home/zzy/catkin_ws/devel
+
+Name: image_pub_pkg
+Description: Description of image_pub_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

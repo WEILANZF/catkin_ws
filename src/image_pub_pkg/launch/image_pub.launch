@@ -1,0 +1,6 @@
+<!--imu ros 驱动-->
+<launch>
+
+    <node pkg="image_pub_pkg" type="image_publisher4" name="image_publisher_node" output="screen"/>
+
+</launch>

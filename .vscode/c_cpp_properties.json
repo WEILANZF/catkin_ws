@@ -1,0 +1,39 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zzy/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/zzy/catkin_ws/src/navigation/amcl/include/**",
+        "/home/zzy/catkin_ws/src/navigation/base_local_planner/include/**",
+        "/home/zzy/catkin_ws/src/navigation/carrot_planner/include/**",
+        "/home/zzy/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/zzy/catkin_ws/src/navigation/costmap_2d/include/**",
+        "/home/zzy/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/zzy/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/zzy/catkin_ws/src/navigation/map_server/include/**",
+        "/home/zzy/catkin_ws/src/navigation/move_base/include/**",
+        "/home/zzy/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/zzy/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/zzy/catkin_ws/src/navigation/navfn/include/**",
+        "/home/zzy/catkin_ws/src/robot_localization/include/**",
+        "/home/zzy/catkin_ws/src/navigation/rotate_recovery/include/**",
+        "/home/zzy/catkin_ws/src/tracer_ros/tracer_base/include/**",
+        "/home/zzy/catkin_ws/src/tracer_ros/tracer_gazebo_sim/include/**",
+        "/home/zzy/catkin_ws/src/ugv_sdk/include/**",
+        "/home/zzy/catkin_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
